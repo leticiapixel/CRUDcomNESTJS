@@ -1,0 +1,11 @@
+CRUD com NESTJS
+
+ npm i -g @nestjs/cli  -> instalação do cli do nest
+
+Nest new nomeprojeto -> comando para criar um projeto
+
+Npm run start -> comando para rodar a aplicação
+
+Utiliza por padrão a porta 3000
+
+nest g resource  -> comando para criar crud automaticamente
